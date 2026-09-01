@@ -17,7 +17,7 @@ for forecasting.
 
 - **Pair:** USD/CAD exchange rate
 - **Period:** ⟨2010–2021, monthly⟩
-- **Sources:** ⟨exchange rate + US CPI + Canada CPI — add sources⟩
+- **Sources:** ⟨exchange rate + US CPI + Canada CPI⟩
 
 ## Methodology
 
